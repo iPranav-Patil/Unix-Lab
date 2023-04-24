@@ -10,7 +10,7 @@
 
 #Display student record where a name has 'Kum' in the record
 
-$grep -F "Kum" students.txt
+$grep -F "Sachin" students.txt
 
 #COunt the number of records with S1
 
